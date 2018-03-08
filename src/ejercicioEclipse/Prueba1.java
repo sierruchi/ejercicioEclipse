@@ -22,7 +22,7 @@ public class Prueba1 {
 	public static void main(String[] args) {
 		System.out.println("Hola");
 		System.out.println("Que Tal?");
-		System.out.println("perfect");
+		System.out.println("perfecst");
 	}
 
 }
